@@ -82,23 +82,23 @@ const RootLayout = ({ children }) => {
             fontSize: "28px",
           }}
         >
-          PH-NEWS PORTAL
+          NEWS PORTAL
         </h2>
         <p className={styles.social_icons}>
-          <Link href="https://web.facebook.com/groups/programmingherocommunity">
+          <Link href="">
             <FacebookFilled />
           </Link>
           <Link href="www.twitter.com">
             <TwitterSquareFilled />
           </Link>
-          <Link href="https://web.programming-hero.com/home/">
+          <Link href="">
             <GoogleSquareFilled />
           </Link>
           <Link href="www.linkedin.com">
             <LinkedinFilled />
           </Link>
         </p>
-        News Portal ©2023 Created by Programming Hero
+        News Portal ©2023 Created by Emran
       </Footer>
     </Layout>
   );
